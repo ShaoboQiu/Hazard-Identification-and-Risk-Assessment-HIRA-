@@ -1,2 +1,4 @@
 # Hazard-Identification-and-Risk-Assessment-HIRA-
 安全设计的目标是把危险控制在“可接受范围之内”。安全是一个概率过程，是概率驱动，而不是一个确定过程，不可用微分方程来描述。把概率过程当成确定过程来管理，必然无法阻止小概率事件（长尾/corner事件）的发生。安全右脑的开发目的是降低危害发生的概率。   
+
+Design premises and non-delegable judgment principles are articulated in the Judgment Before Intelligence repository.
